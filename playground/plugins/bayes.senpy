@@ -1,0 +1,8 @@
+{
+    "name": "naivebayes",
+    "module": "bayes",
+    "description": "Using NLTK for sentiment analysis",
+    "author": "@balkian",
+    "version": "0.1",
+    "requirements": {"nltk": "*"}
+}

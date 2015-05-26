@@ -1,0 +1,8 @@
+{
+    "name": "smileys",
+    "module": "smileys",
+    "description": "A simple plugin that detects smileys",
+    "author": "@balkian",
+    "version": "0.1",
+    "requirements": {}
+}
